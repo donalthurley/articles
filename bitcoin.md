@@ -49,7 +49,7 @@ like the ones given to Sysyphus, a useless task but one that can then be checked
 
 Second and third generation crypto platforms use the more efficient Proof of Stake approach.
 This is where participants put a deposit of some crypto coins down and are prepared to lose them if they are found to be cheating.
-In the allegory this would be like the generals staking some of their own physical gold coins.
+In the allegory this would be like the generals staking some of their own physical gold coins as a sign of good will.
 
 It is very obvious that Proof of Stake is a far superior approach because it doesn't incur the high energy cost of Proof of Work.
 And Proof of Work is wasting energy because the task is doing nothing useful.
