@@ -71,7 +71,7 @@ The second and third generation cryptocurrency platforms have corrected many of 
 
 Unfortunately, there is so much hype around Bitcoin, many have invested before understanding these technical flaws and there is a lot of speculation in the market.
 But there are many alternatives available offering the same service and most importantly that don't exact such a high toll on our climate.
-What we do know is that Proof of Work is unnecessary pollution to our enviroment. We don't allow this in other industries. WHY should we allow it in the IT industry?
+What we do know is that Proof of Work is unnecessary pollution to our environment. We don't allow this in other industries. WHY should we tolerate it in the IT industry?
 Eliminating this unecessary environmental cost would be a great first step forward in our struggle with climate change.
 I think it is crucial that the US and EU regulatory bodies, and all other regulatory bodies around the world act quickly now and ban Proof of Work wherever it is used in crypto currency platforms.
 
