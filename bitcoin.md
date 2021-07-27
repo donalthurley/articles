@@ -1,5 +1,5 @@
-**Bitcoin's Proof of Work is Causing Substantial and Unnecessary Environmental Damage and Should Be Banned**\
-written by **Donal Hurley** 
+### Bitcoin's Proof of Work is Causing Substantial and Unnecessary Environmental Damage and Should Be Banned
+_written by_ **Donal Hurley** 
 
 _'Look at mother nature on the run'\
 Neil Young - After the Goldrush_
