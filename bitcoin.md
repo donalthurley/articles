@@ -75,10 +75,13 @@ What we do know is that Proof of Work is unnecessary pollution to our enviroment
 Eliminating this unecessary environmental cost would be a great first step forward in our struggle with climate change.
 I think it is crucial that the US and EU regulatory bodies, and all other regulatory bodies around the world act quickly now and ban Proof of Work wherever it is used in crypto currency platforms.
 
-[1] Lex Fridman. "Lex Fridman Podcast and other videos." https://www.youtube.com/user/lexfridman
+[1] Lex Fridman. "Lex Fridman Podcast and other videos."\
+https://www.youtube.com/user/lexfridman
 
-[2] Leslie Lamport, Robert Shostak, Marshall Pease. "The Byzantine Generals Problem" https://dl.acm.org/doi/10.1145/357172.357176
+[2] Leslie Lamport, Robert Shostak, Marshall Pease. "The Byzantine Generals Problem"\
+https://dl.acm.org/doi/10.1145/357172.357176
 
-[3] Cynthia Dwork and Noni Naor (1993). “Pricing via Processing, Or, Combatting Junk Mail, Advances in Cryptology”. https://web.cs.dal.ca/~abrodsky/7301/readings/DwNa93.pdf
+[3] Cynthia Dwork and Noni Naor (1993). “Pricing via Processing, Or, Combatting Junk Mail, Advances in Cryptology”.\
+https://web.cs.dal.ca/~abrodsky/7301/readings/DwNa93.pdf
 
 _Donal Hurley is a Software Engineer in Dublin. He currently works on contract for the IBM Security Services team. He can be found on Twitter at_ **@donalthurley**.
