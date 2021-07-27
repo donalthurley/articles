@@ -19,7 +19,7 @@ with an alternative approach called Proof of Stake in the second and third gener
 
 Before explaining what these two approaches are let us summarize the core features of cryptocurrencies.
 
-Firstly the main goal is to replace physical currencies like the dollar or euro with a digital currency that is borderless.
+Firstly the main goal is to replace traditional currencies like the dollar or euro with a digital currency that is borderless.
 Secondly they use a new data storage concept, this now famous blockchain, for ensuring that currency transactions are secure and can never be altered.
 Each new block in the chain is cryptographically linked to all previous blocks in the chain, meaning no block can be altered without invalidating the whole chain.
 And thirdly the goal of these currencies is to remove the need for intermediaries.
