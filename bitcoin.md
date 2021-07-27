@@ -57,8 +57,8 @@ And Proof of Work is wasting energy because the task is doing nothing useful.
 So why was it that Proof of Work was the approach proposed in the famous Bitcoin white paper and subsequently adopted?
 
 To understand this we need to go back to the literature to where the idea for Proof of Work originated.
-The original idea comes from a paper which suggested it as a solution for combating junk mail.
-In it Dwork and Naor [3] clearly state why they chose a computational pricing model rather than charging a fee.
+The original idea comes from a paper which suggested it as a solution for combating junk mail [3].
+In it Dwork and Naor clearly state why they chose a computational pricing model rather than charging a fee.
 They didn't want to deter any one from using the system. Their view was if you charged for email people wouldn't use email.
 
 Remember Bitcoin was the very first cryptocurrency. These had never been seen before.
