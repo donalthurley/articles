@@ -30,7 +30,7 @@ Decentralization is challenging and more expensive to implement than centralizat
 For instance, when new currency transactions occur between participants without a central authority, how they can trust each other and successfully keep their own data copies in sync?
 
 In the distributed computing academic literature this is a well known problem for which there are several documented solutions.
-It is referred to as the Byzantine Generals Problem the name coming from the allegory which Lamport, Shostak and Pease proposed in their paper in 1982 [2].
+It is referred to as the _Byzantine Generals Problem_ the name coming from the allegory which Lamport, Shostak and Pease proposed in their paper in 1982 [2].
 
 The idea is that there is a number of generals who need to decide whether to attack or retreat from a city and they must come to a common agreement.
 They can communicate their decision with each other using messengers.
