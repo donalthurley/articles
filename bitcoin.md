@@ -34,7 +34,7 @@ It is referred to as the _Byzantine Generals Problem_ the name coming from the a
 
 The idea is that there is a number of generals who need to decide whether to attack or retreat from a city and they must come to a common agreement.
 They can communicate their decision with each other using messengers.
-But these messengers could be unreliable or rogue and fail to deliver the messages or even deliver false messages.
+But these messengers could be unreliable and fail to deliver the messages or even deliver false messages.
 In cryptocurrency terms the computer nodes would represent the generals and the communication system links would represent the messengers.
 
 To resolve this problem the generals come up with a way to show a sign of good faith.
