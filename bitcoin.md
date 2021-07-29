@@ -67,7 +67,7 @@ I think it makes sense that they would have considered computing resources as a 
 But I don't think they would ever have anticipated the enormous energy waste that the unrivalled growth of today's Bitcoin network has achieved.
 
 In software engineering, mistakes are nearly always made in the first implementations.
-The second and third generation cryptocurrency platforms have corrected many of these mistakes.
+The second and third generation cryptocurrency platforms are addressing many of these mistakes.
 
 Unfortunately, there is much hype around Bitcoin, many have invested before understanding these technical flaws and there is a lot of speculation in the market.
 But it is technically possible for any cryptocurrency to migrate from a Proof of Work to a Proof of State model which does not exact such a high toll on our climate.   
