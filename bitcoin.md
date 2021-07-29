@@ -14,7 +14,7 @@ We need to do this with urgency as Bitcoin has already achieved considerable mar
 
 Lex Fridman [1] has recently conducted a valuable series of podcast interviews on YouTube with the leaders of the cryptocurrency industry.
 From listening to these discussions it is clear to me that the unnecessary waste is due to Bitcoin using an algorithm called Proof of Work.
-This is causing substantial energy cost with no apparent gain and this flaw is already being addressed
+This is causing substantial energy waste with no apparent gain and this flaw is already being addressed
 with an alternative approach called Proof of Stake in the second and third generation cryptocurrency platforms.
 
 Before explaining what these two approaches are let us look at the core features of cryptocurrencies.
