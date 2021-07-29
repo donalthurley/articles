@@ -27,7 +27,7 @@ This is achieved by large scale distribution of the blockchain data store with e
 
 This large scale distribution or decentralization concept is the core driving force behind cryptocurrencies and the platforms that are emerging in this space.
 Decentralization is challenging and more expensive to implement than centralization.
-Without a central authority, when new currency transactions occur between participants, how can they trust each other and successfully keep their own data copies in sync?
+Without a central authority, when new currency transactions occur between participants how can they trust each other and successfully keep their own data copies in sync?
 
 In the distributed computing academic literature this is a known problem for which there are several documented solutions.
 It is referred to as the _Byzantine Generals Problem_ the name coming from the allegory which Lamport, Shostak and Pease proposed in their paper in 1982 [2].
@@ -47,7 +47,7 @@ In Bitcoin the Proof of Work task is a cryptographic puzzle that is given to spe
 In terms of the Byzantine Generals allegory it would be equivalent to each general asking his infantry to perform some time consuming task,
 a useles task like the ones given to Sysyphus, but one that can then be checked by the other generals and will prove his good intentions.
 
-Second and third generation cryptocurrency platforms use the more efficient Proof of Stake approach.
+Second and third generation cryptocurrency platforms are moving to the more efficient Proof of Stake approach.
 This is where participants put a deposit of some crypto coins down and are prepared to lose them if they are found to be cheating.
 In the allegory this would be like the generals staking some of their own physical gold coins as a sign of good will.
 
@@ -74,6 +74,7 @@ But it is technically possible for any cryptocurrency to migrate from a Proof of
 And the newer alternatives offering the same services are moving away from Proof of Work.
 
 What we do know is that Proof of Work is causing unnecessary pollution to our environment. We wouldn't allow this in any other industry. So WHY should we tolerate it in the IT industry?
+
 Eliminating this unecessary environmental cost would be a great first step forward in our struggle with climate change.
 I think it is crucial that the US and EU regulatory bodies, and all other regulatory bodies around the world act quickly now and ban Proof of Work wherever it is used in crypto currency platforms.
 
