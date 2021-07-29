@@ -10,7 +10,7 @@ We know that fifty-one billion tons of greenhouse gases are being pumped into th
 that the world needs to eliminate as much unnecessary waste as possible if we are to have any chance of getting to zero.
 We also know that the environmental cost of the Bitcoin network is now equivalent to that of a moderate sized country.
 We need to understand why the Bitcoin network is so wasteful.
-We need to do this with urgency as Bitcoin has already reached considerable market adoption and critical mass.
+We need to do this with urgency as Bitcoin has already achieved considerable market adoption and critical mass.
 
 Lex Fridman [1] has recently conducted a valuable series of podcast interviews on YouTube with the leaders of the cryptocurrency industry.
 From listening to these discussions it is clear to me that the unnecessary waste is due to Bitcoin using an algorithm called Proof of Work.
