@@ -54,7 +54,7 @@ In the allegory this would be like the generals staking some of their own physic
 It is very obvious that Proof of Stake is a far superior approach because it doesn't incur the high energy cost of Proof of Work.
 And Proof of Work is wasting energy because the task is doing nothing useful.
 
-So why then was Proof of Work was the approach proposed in the famous Bitcoin white paper [3] and subsequently adopted?
+So why then was Proof of Work the approach proposed in the famous Bitcoin white paper [3] and subsequently adopted?
 
 To understand this we need to go back to the literature to where the idea for Proof of Work originated.
 The original idea comes from a paper which suggested it as a solution for combating junk mail [4].
