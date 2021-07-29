@@ -45,7 +45,7 @@ In the case of Proof of Work that resource is a work resource and in the case of
 
 In Bitcoin the Proof of Work task is a cryptographic puzzle that is given to special _miner_ nodes that can take several minutes to solve.
 In terms of the Byzantine Generals allegory it would be equivalent to each general asking his infantry to perform some time consuming task,
-a useles task like the ones given to Sysyphus, but one that can then be checked by the other generals and will prove his good intentions.
+a useless task like the ones given to Sysyphus, but one that can then be checked by the other generals and will prove his good intentions.
 
 Second and third generation cryptocurrency platforms are moving to the more efficient Proof of Stake approach.
 This is where participants put a deposit of some crypto coins down and are prepared to lose them if they are found to be cheating.
@@ -76,7 +76,7 @@ And the newer alternatives offering the same services are moving away from Proof
 What we do know is that Proof of Work is causing unnecessary pollution to our environment. We wouldn't allow this in any other industry. So WHY should we tolerate it in the IT industry?
 
 Eliminating this unecessary environmental cost would be a great first step forward in our struggle with climate change.
-I think it is crucial that the US and EU regulatory bodies, and all other regulatory bodies around the world act quickly now and ban Proof of Work wherever it is used in crypto currency platforms.
+I think the time is now right for the US and EU regulatory bodies, and other regulatory bodies around the world to ban Proof of Work wherever it is used in cryptocurrency platforms.
 
 [1] Lex Fridman. "Lex Fridman Podcast and other videos."\
 https://www.youtube.com/user/lexfridman
