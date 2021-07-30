@@ -53,7 +53,7 @@ This is where participants put down a deposit of some crypto coins and are prepa
 In the allegory this would be like the generals staking some of their own physical gold coins as a sign of good faith.
 
 It is very obvious that Proof of Stake is a far superior approach because it achieves the same result without incurring the high energy cost of Proof of Work.
-In computer systems we always try to eliminate unnecessary consumption, which is why cloud services charge us for our usage.
+In computer systems, as in life, we always try to eliminate unnecessary consumption, which is why cloud services charge us by the CPU cycle.
 
 So why then was Proof of Work the approach proposed in the famous Bitcoin white paper [3] and the one subsequently adopted?
 
