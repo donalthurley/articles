@@ -49,7 +49,7 @@ In terms of the Byzantine Generals allegory it would be equivalent to each gener
 a useless task like the ones given to Sysyphus, but one that can then be checked by the other generals and will prove his good intentions.
 
 Second and third generation cryptocurrency platforms are moving to the more efficient Proof of Stake approach.
-This is where participants put a deposit of some crypto coins down and are prepared to lose them if they are not considered trustworthy.
+This is where participants put down a deposit of some crypto coins down and are prepared to lose them if they are not considered trustworthy.
 In the allegory this would be like the generals staking some of their own physical gold coins as a sign of good faith.
 
 It is very obvious that Proof of Stake is a far superior approach because it doesn't incur the high energy cost of Proof of Work.
@@ -73,9 +73,9 @@ It was never intended as a solution for normal system usage as it has been appli
 
 Remember Bitcoin was the very first cryptocurrency. 
 In the early days the developers would have wanted to attract people to use this new technology.
-I think it makes sense that they would have considered using computing resources as a more attractive incentive rather than charging fees.
-After all, the early participants would have then been able to use their own computers earning bitcoin rewards as their compensation.
-I don't think they would ever have anticipated the exponential growth in usage that has led to the significant energy wastage we see today 
+I think it makes sense that they would have considered using computing resources as the more attractive incentive rather than charging fees.
+After all, at that time the early participants would have used their own computers to earn bitcoin rewards to compensate them.
+I don't think they would ever have anticipated the exponential growth in usage that has led to the colossal energy wastage we see today 
 where only highly expensive and specialized GPU and ASIC hardware can now compete for those rewards.  
 
 In software engineering, mistakes are nearly always made in the first implementations.
