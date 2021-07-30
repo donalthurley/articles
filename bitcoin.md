@@ -95,7 +95,7 @@ in their code of ethics [5] state that professionals should "strive to comply wi
 Correspondingly, the ACM, who award the Turing prize, computer science's Nobel prize, 
 in their code of ethics booklet [6] state we should avoid harming the environment and 
 "when that harm is unintended, those responsible are obliged to undo or mitigate the harm as much as possible".
-It is our duty as computer professionals to correct what we have done wrong.
+It is our duty as computer professionals to correct bad decisions when we become aware of them.
 But since Proof Of Work is already widely used by many cryptocurrency platforms I think regulation is required.
 There is a significant development cost in moving away from the old approach and this will not be done without encouragement.      
 
