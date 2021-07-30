@@ -74,7 +74,7 @@ It was never intended as a solution for normal system usage as it has been appli
 
 Remember Bitcoin was the very first cryptocurrency. 
 In the early days the developers would have wanted to attract people to use this new technology.
-I think it makes sense that they would have considered using computing resources as the more attractive incentive rather than charging fees.
+I think it makes sense that they would have considered computing resources as the more attractive incentive rather than charging fees.
 After all, at that time the early participants would have used their own computers and would have earned Bitcoin rewards as compensation.
 I don't think they would ever have anticipated the exponential growth in usage that has led to the colossal energy waste we see today 
 where only highly expensive and specialized GPU and ASIC hardware can now compete for those rewards.  
