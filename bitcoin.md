@@ -27,8 +27,8 @@ This is achieved by large scale distribution of the blockchain data store with e
 
 This large scale distribution or decentralization concept is the core driving force behind cryptocurrencies and the platforms that are emerging in this space.
 Decentralization is challenging and more expensive to implement than centralization.
-When participants exchange currency in transactions with each other how can they trust each other without a central authority?
-How can they ensure their own copies of the data are in sync with each other?
+When participants exchange currency in transactions with each other how can trust be established without a central authority?
+How can each participant ensure his own copy of the data is in sync with everyone else's?
 
 In the distributed computing academic literature this is a known problem for which there are documented solutions.
 It is referred to as the _Byzantine Generals Problem_ the name coming from the allegory which Lamport, Shostak and Pease proposed in their paper in 1982 [2].
