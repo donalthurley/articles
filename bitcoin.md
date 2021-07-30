@@ -17,7 +17,7 @@ From listening to these discussions it is clear that the unnecessary waste is du
 This is causing substantial energy waste with no apparent gain and this flaw is already being addressed
 with an alternative approach called Proof of Stake in the second and third generation cryptocurrency platforms.
 
-Before explaining what these two approaches are let us look at the core features of cryptocurrencies.
+Before explaining these two approaches let us look at the core features of cryptocurrencies.
 
 Firstly the main goal is to replace traditional currencies like the dollar or euro with a digital currency.
 Secondly they use a new data storage concept, this now famous blockchain, for ensuring that currency transactions are secure and can never be altered.
@@ -110,7 +110,7 @@ https://web.cs.dal.ca/~abrodsky/7301/readings/DwNa93.pdf
 [5] IEEE "IEEE Policies, Section 7 - Professional Activities"
 https://www.ieee.org/about/corporate/governance/p7-8.html
 
-[6] ACM Association for Computing Mavhinery. "ACM Code of Ethics and Professional Conduct"
+[6] ACM Association for Computing Machinery. "ACM Code of Ethics and Professional Conduct"
 https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-booklet.pdf
 
 _Donal Hurley is a Software Engineer in Dublin. He currently works on a contract with the IBM Security Services team. He can be found on Twitter at_ **@donalthurley**.
