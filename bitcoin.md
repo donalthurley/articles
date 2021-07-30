@@ -27,7 +27,7 @@ This is achieved by large scale distribution of the blockchain data store with e
 
 This large scale distribution or decentralization concept is the core driving force behind cryptocurrencies and the platforms that are emerging in this space.
 Decentralization is challenging and more expensive to implement than centralization.
-Without a central authority, when new currency transactions occur between participants how can they trust each other?
+When participants exchange currency in transactions with each other how can they trust each other without a central authority?
 How can they ensure their copies of the data are in sync with each other?
 
 In the distributed computing academic literature this is a known problem for which there are documented solutions.
