@@ -96,7 +96,7 @@ But since Proof Of Work is already widely used by many cryptocurrency platforms 
 There is a significant development cost to move to a better solution and this will not be done without encouragement.      
 
 There is much hype around Bitcoin, many have invested before understanding these technical flaws and there is a lot of speculation in the market.
-But it is technically possible for any cryptocurrency to migrate from a Proof of Work to a Proof of State model which will substantially reduce the environmental cost.   
+But it is technically possible for any cryptocurrency to migrate from a Proof of Work to a Proof of Stake model which will substantially reduce the environmental cost.   
 
 And what we do know is that Proof of Work is causing unnecessary pollution to our environment. We wouldn't allow this in any other industry. So WHY should we tolerate it in the IT industry?
 
