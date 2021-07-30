@@ -23,7 +23,7 @@ Firstly the main goal is to replace traditional currencies like the dollar or eu
 Secondly they use a new data storage concept, this now famous blockchain, for ensuring that currency transactions are secure and can never be altered.
 Each new block in the chain is cryptographically linked to all previous blocks in the chain, meaning no block can be altered without invalidating the whole chain.
 And thirdly the goal of these currencies is to remove the need for intermediaries.
-This is achieved by large scale distribution of the blockchain data store with every participant using the currency having their own copy.
+This is achieved by large scale distribution of the blockchain data store with every participant who uses the currency having their own copy.
 
 This large scale distribution or decentralization concept is the core driving force behind cryptocurrencies and the platforms that are emerging in this space.
 Decentralization is challenging and more expensive to implement than centralization.
