@@ -17,7 +17,7 @@ From listening to these discussions it is clear that the unnecessary waste is du
 This is causing substantial energy waste with no apparent gain and this flaw is already being addressed
 with an alternative approach called Proof of Stake in the second and third generation cryptocurrency platforms.
 
-Before explaining these two approaches let us look at the core features of cryptocurrencies.
+Before explaining these two approaches let us look at the three key goals of cryptocurrencies.
 
 Firstly the main goal is to replace traditional currencies like the dollar or euro with cross-border digital currencies.
 Secondly they use a new data storage concept, this now famous blockchain, for ensuring that currency transactions are secure and can never be altered.
