@@ -68,28 +68,28 @@ In it Dwork and Naor clearly state why they chose a computational pricing model 
 
 They didn't want to deter any one from using the system. Their view was if you charged for email people wouldn't use email.
 Only bad actors, those spamming the system incur the Proof of Work.
-It was never intended as a solution for normal usage as it has been applied in cryptocurrency.
+It was never intended as a solution for normal system usage as it has been applied in cryptocurrency.
 
 And remember Bitcoin was the very first cryptocurrency.
 In the early days the developers would have wanted to attract people to use this new technology.
 I think it makes sense that they would have considered computing resources as a better incentive than charging fees.
-But I don't think they would ever have anticipated the enormous energy waste that the unrivalled growth of today's Bitcoin network has achieved.
-
-The IEEE, which is the world's largest technical professional organization,
-in their code of ethics [5] state that professionals should "strive to comply with ethical design and sustainable development practices".
-The other widely professional organization is the ACM, who award the Turing prize, computer science's equivalent of the Nobel prize,  
-also in their code of ethics booklet [6] section 1.2 state we should avoid harming the environment and 
-"when that harm is unintended, those responsible are obliged to undo or mitigate the harm as much as possible".
+But I don't think they would ever have anticipated the exponential growth of today's Bitcoin network.
 
 In software engineering, mistakes are nearly always made in the first implementations.
 The second and third generation cryptocurrency platforms are addressing many of these mistakes.
+The IEEE, the world's largest technical professional organization,
+in their code of ethics [5] state that professionals should "strive to comply with ethical design and sustainable development practices".
+Correspondingly, the ACM, who award the Turing prize, computer science's Nobel prize, 
+in their code of ethics booklet [6] section 1.2 state we should avoid harming the environment and 
+"when that harm is unintended, those responsible are obliged to undo or mitigate the harm as much as possible".
+It is our duty as computer professionals to correct what we have done wrong. 
 
 Unfortunately, there is much hype around Bitcoin, many have invested before understanding these technical flaws and there is a lot of speculation in the market.
-But it is technically possible for any cryptocurrency to migrate from a Proof of Work to a Proof of State model which will not exact such a high toll on our climate.   
+But it is technically possible for any cryptocurrency to migrate from a Proof of Work to a Proof of State model which will substantially reduce the enivironmental cost.   
 
 And what we do know is that Proof of Work is causing unnecessary pollution to our environment. We wouldn't allow this in any other industry. So WHY should we tolerate it in the IT industry?
 
-Eliminating this unecessary environmental cost would be a great first step forward in our struggle with climate change.
+Eliminating this unecessary environmental cost would be a great first step forward in the world's battle with climate change.
 I think the time is now right for the US and EU regulatory bodies, and other regulatory bodies around the world to ban Proof of Work from use in any existing or future cryptocurrency platform.
 
 [1] Lex Fridman. "Lex Fridman Podcast and other videos."\
