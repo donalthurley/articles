@@ -73,9 +73,10 @@ Only bad actors, those spamming the system, would incur the Proof of Work.
 It was never intended as a solution for normal system usage as it has been applied in cryptocurrency.
 
 Remember Bitcoin was the very first cryptocurrency. 
-In the early days the developers would have wanted to attract people to use this new technology.
-I think it makes sense that they would have considered computing resources as the more attractive incentive rather than charging fees.
-After all, at that time the early participants would have used their own computers and would have earned Bitcoin rewards as compensation.
+In the early days the developers would have wanted to attract people to use this new technology and fees would have been a great disincentive.
+They would also have been aware that they needed to protect the new network from bad actors.
+As a result, it is understandable that they might have opted for a solution that was proposed for deterring spam by using computing resources.
+Then combining the computing resource usage with the idea of coin minting to kickstart the network the early participants could use their own computers and earn Bitcoin rewards as compensation.
 I don't think they would ever have anticipated the exponential growth in usage that has led to the colossal energy waste we see today 
 where only highly expensive and specialized GPU and ASIC hardware can now compete for those rewards.  
 
