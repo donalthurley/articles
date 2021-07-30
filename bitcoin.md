@@ -55,7 +55,7 @@ In the allegory this would be like the generals staking some of their own physic
 It is very obvious that Proof of Stake is a far superior approach because it doesn't incur the high energy cost of Proof of Work.
 And Proof of Work is wasting energy because the task is doing nothing useful.
 
-So why then was Proof of Work the approach proposed in the famous Bitcoin white paper [3] and subsequently adopted?
+So why then was Proof of Work the approach proposed in the famous Bitcoin white paper [3] and the one subsequently adopted?
 
 To understand this we need to go back to the literature to where the idea for Proof of Work first arose.
 The original idea comes from a paper which suggested it as a solution for combating junk mail [4].
@@ -86,7 +86,7 @@ in their code of ethics booklet [6] state we should avoid harming the environmen
 "when that harm is unintended, those responsible are obliged to undo or mitigate the harm as much as possible".
 It is our duty as computer professionals to correct what we have done wrong.
 But since Proof Of Work is already widely used by many cryptocurrency platforms I think some regulation will be needed.
-There is a significant development cost to move to the better solution and that will not be done without encouragement.      
+There is a significant development cost to move to the better solution and this will not be done without encouragement.      
 
 There is much hype around Bitcoin, many have invested before understanding these technical flaws and there is a lot of speculation in the market.
 But it is technically possible for any cryptocurrency to migrate from a Proof of Work to a Proof of State model which will substantially reduce the environmental cost.   
