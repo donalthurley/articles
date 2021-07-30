@@ -53,9 +53,10 @@ Second and third generation cryptocurrency platforms are moving to the more effi
 This is where participants put down a deposit of some crypto coins and are prepared to lose them if they are not considered trustworthy.
 In the allegory this would be like the generals staking some of their own physical gold coins as a sign of good faith.
 
-It is very obvious that Proof of Stake is a far superior approach because it achieves the same result without incurring the high energy cost of Proof of Work.
-The two resources are interchangeable, if you already have a stake you can use it instead to pay for an equivalent amount of work.
-No need to do the work. Applying Occam's razor we would always choose the Proof of Stake approach. 
+Both approaches will work to deter bad actors and to maximize trust but it is very obvious 
+that Proof of Stake is the far superior approach because it achieves the same result without incurring the high energy cost.
+The two resources are interchangeable, if you already have a stake you can use it to pay for an equivalent amount of work.
+There is no need to do the work. Applying Occam's razor we would always choose the Proof of Stake approach. 
 
 So why then was Proof of Work the approach proposed in the famous Bitcoin white paper [3] and the one subsequently adopted?
 
