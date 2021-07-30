@@ -74,7 +74,7 @@ It was never intended as a solution for normal system usage as it has been appli
 Remember Bitcoin was the very first cryptocurrency. 
 In the early days the developers would have wanted to attract people to use this new technology.
 I think it makes sense that they would have considered using computing resources as a better incentive rather than charging fees.
-But I don't think they would ever have anticipated the exponential growth in usage that has led to the problems in today's Bitcoin network.
+But I don't think they would ever have anticipated the exponential growth in usage that has led to the energy wastage in today's Bitcoin network.
 
 In software engineering, mistakes are nearly always made in the first implementations.
 The second and third generation cryptocurrency platforms are addressing many of these mistakes.
@@ -89,7 +89,7 @@ But since Proof Of Work is already widely used by many cryptocurrency platforms 
 There is a significant development cost to move to the better solution and that will not be done without encouragement.      
 
 There is much hype around Bitcoin, many have invested before understanding these technical flaws and there is a lot of speculation in the market.
-But it is technically possible for any cryptocurrency to migrate from a Proof of Work to a Proof of State model which will substantially reduce the enivironmental cost.   
+But it is technically possible for any cryptocurrency to migrate from a Proof of Work to a Proof of State model which will substantially reduce the environmental cost.   
 
 And what we do know is that Proof of Work is causing unnecessary pollution to our environment. We wouldn't allow this in any other industry. So WHY should we tolerate it in the IT industry?
 
