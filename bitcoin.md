@@ -22,11 +22,11 @@ Before explaining these two approaches let us look at the three key goals of cry
 Firstly the main goal is to replace traditional currencies like the dollar or euro with cross-border digital currencies.
 The internet and increasing globalization is making the realization of this almost inevitable.
 Secondly they use a new data storage concept, this now famous blockchain, for ensuring that currency transactions are secure and can never be altered.
-The blockchain is built up by having each new block in the chain cryptographically linked to all previous blocks, meaning no block can be altered without invalidating the whole chain.
+The blockchain works by having each new block in the chain cryptographically linked to all previous blocks, meaning no block can be altered without invalidating the whole chain.
 And thirdly the goal of these currencies is to remove the need for intermediaries.
 This is achieved by large scale distribution of the blockchain data store with every participant who uses the currency having their own copy.
 
-This large scale distribution or decentralization concept is the core driving force behind cryptocurrencies and the platforms that are emerging in this space.
+This large scale distribution or decentralization concept is the core driving force behind cryptocurrencies and the DeFi platforms that are emerging in this space.
 Decentralization is challenging and more expensive to implement than centralization.
 When participants exchange currency in transactions with each other how can trust be established without a central authority?
 How can each participant ensure his own copy of the data is in sync with everyone else's?
