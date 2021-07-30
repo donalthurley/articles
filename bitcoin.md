@@ -13,7 +13,7 @@ We need to understand why the Bitcoin network is so wasteful.
 We need to do this with urgency as Bitcoin has already achieved considerable market adoption and critical mass.
 
 Lex Fridman [1] has recently conducted a valuable series of podcast interviews on YouTube with the leaders of the cryptocurrency industry.
-From listening to these discussions it is clear to me that the unnecessary waste is due to Bitcoin using an algorithm called Proof of Work.
+From listening to these discussions it is clear that the unnecessary waste is due to Bitcoin using an algorithm called Proof of Work.
 This is causing substantial energy waste with no apparent gain and this flaw is already being addressed
 with an alternative approach called Proof of Stake in the second and third generation cryptocurrency platforms.
 
@@ -70,13 +70,14 @@ They didn't want to deter any one from using the system. Their view was if you c
 Only bad actors, those spamming the system, would incur the Proof of Work.
 It was never intended as a solution for normal system usage as it has been applied in cryptocurrency.
 
-And remember Bitcoin was the very first cryptocurrency.
+Remember Bitcoin was the very first cryptocurrency. 
 In the early days the developers would have wanted to attract people to use this new technology.
-I think it makes sense that they would have considered computing resources as a better incentive than charging fees.
-But I don't think they would ever have anticipated the exponential growth of today's Bitcoin network.
+I think it makes sense that they would have considered using computing resources as a better incentive rather than charging fees.
+But I don't think they would ever have anticipated the exponential growth in usage that has led to the problems in today's Bitcoin network.
 
 In software engineering, mistakes are nearly always made in the first implementations.
 The second and third generation cryptocurrency platforms are addressing many of these mistakes.
+
 The IEEE, the world's largest technical professional organization,
 in their code of ethics [5] state that professionals should "strive to comply with ethical design and sustainable development practices".
 Correspondingly, the ACM, who award the Turing prize, computer science's Nobel prize, 
@@ -84,7 +85,7 @@ in their code of ethics booklet [6] section 1.2 state we should avoid harming th
 "when that harm is unintended, those responsible are obliged to undo or mitigate the harm as much as possible".
 It is our duty as computer professionals to correct what we have done wrong.
 But since Proof Of Work is already widely used by many cryptocurrency platforms I think some regulation will be needed.
-There is a significant development cost to move to the better solution and it will not be done without encouragement.      
+There is a significant development cost to move to the better solution and that will not be done without encouragement.      
 
 There is much hype around Bitcoin, many have invested before understanding these technical flaws and there is a lot of speculation in the market.
 But it is technically possible for any cryptocurrency to migrate from a Proof of Work to a Proof of State model which will substantially reduce the enivironmental cost.   
@@ -92,7 +93,7 @@ But it is technically possible for any cryptocurrency to migrate from a Proof of
 And what we do know is that Proof of Work is causing unnecessary pollution to our environment. We wouldn't allow this in any other industry. So WHY should we tolerate it in the IT industry?
 
 Eliminating this unecessary environmental cost would be a great first step forward in the world's battle with climate change.
-I think the time is now right for the US and EU regulatory bodies, and other regulatory bodies around the world to ban Proof of Work from use in any existing or future cryptocurrency platform.
+I think the time is now right for the US and EU regulatory bodies, and other regulatory bodies around the world to ban Proof of Work from use in any existing or future cryptocurrency platforms.
 
 [1] Lex Fridman. "Lex Fridman Podcast and other videos."\
 https://www.youtube.com/user/lexfridman
