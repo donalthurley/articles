@@ -82,7 +82,7 @@ The second and third generation cryptocurrency platforms are addressing many of 
 The IEEE, the world's largest technical professional organization,
 in their code of ethics [5] state that professionals should "strive to comply with ethical design and sustainable development practices".
 Correspondingly, the ACM, who award the Turing prize, computer science's Nobel prize, 
-in their code of ethics booklet [6] section 1.2 state we should avoid harming the environment and 
+in their code of ethics booklet [6] state we should avoid harming the environment and 
 "when that harm is unintended, those responsible are obliged to undo or mitigate the harm as much as possible".
 It is our duty as computer professionals to correct what we have done wrong.
 But since Proof Of Work is already widely used by many cryptocurrency platforms I think some regulation will be needed.
