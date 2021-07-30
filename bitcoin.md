@@ -59,24 +59,38 @@ So why then was Proof of Work the approach proposed in the famous Bitcoin white 
 To understand this we need to go back to the literature to where the idea for Proof of Work originated.
 The original idea comes from a paper which suggested it as a solution for combating junk mail [4].
 In it Dwork and Naor clearly state why they chose a computational pricing model rather than charging a fee.
-They didn't want to deter any one from using the system. Their view was if you charged for email people wouldn't use email.
 
-Remember Bitcoin was the very first cryptocurrency. These had never been seen before.
+    Usage fees may be a deterrent; however, we do not want a system
+    in which to send a letter or note between friends should have a cost similar to that of
+    a postage stamp; similarly we do not wish to charge a high fee to transmit long files
+    between professional collaborators. Such an approach could lead to underutilization
+    of the electronic medium
+
+They didn't want to deter any one from using the system. Their view was if you charged for email people wouldn't use email.
+Only bad actors, those spamming the system incur the Proof of Work.
+It was never intended as a solution for normal usage as it has been applied in cryptocurrency.
+
+And remember Bitcoin was the very first cryptocurrency.
 In the early days the developers would have wanted to attract people to use this new technology.
 I think it makes sense that they would have considered computing resources as a better incentive than charging fees.
 But I don't think they would ever have anticipated the enormous energy waste that the unrivalled growth of today's Bitcoin network has achieved.
+
+The IEEE, which is the world's largest technical professional organization,
+in their code of ethics [5] state that professionals should "strive to comply with ethical design and sustainable development practices".
+The other widely professional organization is the ACM, who award the Turing prize, computer science's equivalent of the Nobel prize,  
+also in their code of ethics booklet [6] section 1.2 state we should avoid harming the environment and 
+"when that harm is unintended, those responsible are obliged to undo or mitigate the harm as much as possible".
 
 In software engineering, mistakes are nearly always made in the first implementations.
 The second and third generation cryptocurrency platforms are addressing many of these mistakes.
 
 Unfortunately, there is much hype around Bitcoin, many have invested before understanding these technical flaws and there is a lot of speculation in the market.
-But it is technically possible for any cryptocurrency to migrate from a Proof of Work to a Proof of State model which does not exact such a high toll on our climate.   
-And the newer alternatives offering the same services are moving away from Proof of Work.
+But it is technically possible for any cryptocurrency to migrate from a Proof of Work to a Proof of State model which will not exact such a high toll on our climate.   
 
-What we do know is that Proof of Work is causing unnecessary pollution to our environment. We wouldn't allow this in any other industry. So WHY should we tolerate it in the IT industry?
+And what we do know is that Proof of Work is causing unnecessary pollution to our environment. We wouldn't allow this in any other industry. So WHY should we tolerate it in the IT industry?
 
 Eliminating this unecessary environmental cost would be a great first step forward in our struggle with climate change.
-I think the time is now right for the US and EU regulatory bodies, and other regulatory bodies around the world to ban Proof of Work wherever it is used in cryptocurrency platforms.
+I think the time is now right for the US and EU regulatory bodies, and other regulatory bodies around the world to ban Proof of Work from use in any existing or future cryptocurrency platform.
 
 [1] Lex Fridman. "Lex Fridman Podcast and other videos."\
 https://www.youtube.com/user/lexfridman
@@ -90,4 +104,10 @@ https://bitcoin.org/bitcoin.pdf
 [4] Cynthia Dwork and Noni Naor (1993). “Pricing via Processing, Or, Combating Junk Mail, Advances in Cryptology”.\
 https://web.cs.dal.ca/~abrodsky/7301/readings/DwNa93.pdf
 
-_Donal Hurley is a Software Engineer in Dublin. He currently works on contract for the IBM Security Services team. He can be found on Twitter at_ **@donalthurley**.
+[5] IEEE "IEEE Policies, Section 7 - Professional Activities"
+https://www.ieee.org/about/corporate/governance/p7-8.html
+
+[6] ACM Association for Computing Mavhinery. "ACM Code of Ethics and Professional Conduct"
+https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-booklet.pdf
+
+_Donal Hurley is a Software Engineer in Dublin. He currently works on a contract with the IBM Security Services team. He can be found on Twitter at_ **@donalthurley**.
