@@ -49,12 +49,11 @@ In terms of the Byzantine Generals allegory it would be equivalent to each gener
 a useless task like the ones given to Sysyphus, but one that can then be checked by the other generals and will prove his good intentions.
 
 Second and third generation cryptocurrency platforms are moving to the more efficient Proof of Stake approach.
-This is where participants put down a deposit of some crypto coins down and are prepared to lose them if they are not considered trustworthy.
+This is where participants put down a deposit of some crypto coins and are prepared to lose them if they are not considered trustworthy.
 In the allegory this would be like the generals staking some of their own physical gold coins as a sign of good faith.
 
 It is very obvious that Proof of Stake is a far superior approach because it achieves the same result without incurring the high energy cost of Proof of Work.
-The use of cryptography to make the blockchain a very secure datastore is an excellent and appropriate application of cryptographical technology.
-However to use it to encourage the unnecessary consuming of large processing power on a useless task is a misapplication of that technology.
+In computer systems we always try to eliminate unnecessary consumption, which is why cloud services charge us for our usage.
 
 So why then was Proof of Work the approach proposed in the famous Bitcoin white paper [3] and the one subsequently adopted?
 
@@ -78,6 +77,11 @@ I think it makes sense that they would have considered using computing resources
 After all, at that time the early participants would have used their own computers and would have earned bitcoin rewards as compensation.
 I don't think they would ever have anticipated the exponential growth in usage that has led to the colossal energy wastage we see today 
 where only highly expensive and specialized GPU and ASIC hardware can now compete for those rewards.  
+
+The original developers of Bitcoin also came from a cryptographic background.
+They may have been over eager to apply these techniques where ever they could.
+The use of cryptography to make the blockchain a very secure datastore is an excellent and appropriate application of cryptographical technology.
+However to use it to encourage the unnecessary consuming of large processing power is a misapplication.
 
 In software engineering, mistakes are nearly always made in the first implementations.
 We can see that second and third generation cryptocurrency platforms are addressing these shortcomings.
