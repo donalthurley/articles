@@ -39,7 +39,7 @@ They can communicate their decision with each other using messengers.
 But these messengers could be unreliable and fail to deliver the messages or even deliver false messages.
 In cryptocurrency terms the computer nodes would represent the generals and the communication system links would represent the messengers.
 
-To resolve this problem the generals come up with a way to show a sign of good faith.
+To resolve this problem the generals come up with a way to demonstrate their good faith.
 They do this by showing that they are willing to sacrifice some resource of value if they are caught cheating.
 This allows them to come to an agreement even if nearly half of the generals are trying to cheat.
 
@@ -47,7 +47,7 @@ In the case of Proof of Work that resource is a work resource and in the case of
 
 In Bitcoin the Proof of Work task is a cryptographic puzzle that is given to special _miner_ nodes that can take several minutes to solve.
 In terms of the Byzantine Generals allegory it would be equivalent to each general asking his infantry to perform some time consuming task,
-a useless task like the ones given to Sysyphus, but one that can then be checked by the other generals and will prove his good intentions.
+a meaningless task like the ones given to Sysyphus, but one that can then be checked by the other generals and will prove his good intentions.
 
 Second and third generation cryptocurrency platforms are moving to the more efficient Proof of Stake approach.
 This is where participants put down a deposit of some crypto coins and are prepared to lose them if they are not considered trustworthy.
@@ -74,9 +74,9 @@ Only bad actors, those spamming the system, would incur the Proof of Work.
 It was never intended as a solution for normal system usage as it has been applied in cryptocurrency.
 
 Remember Bitcoin was the very first cryptocurrency. 
-In the early days the developers would have wanted to attract people to use this new technology and fees would have been a great disincentive.
+In the early days the developers would have wanted to attract others to use this new technology and fees would have been a strong disincentive.
 They would also have been aware that they needed to protect the new network from bad actors.
-As a result, it is understandable that they might have opted for a solution which used computing resources like the one proposed for deterring spam emails.
+As a result, it is understandable that they might have opted for a solution which used computing resources just like the one proposed for deterring spam emails.
 Then combining the computing resource usage with the idea of coin minting to kickstart the network the early participants could use their own computers and earn Bitcoin rewards as compensation.
 I don't think they would ever have anticipated the exponential growth in usage that has led to the colossal energy waste we see today 
 where only highly expensive and specialized GPU and ASIC hardware can now compete for those rewards.  
@@ -85,6 +85,7 @@ The original developers of Bitcoin also came from a cryptographic background.
 They may have been over eager to apply these techniques where ever they could.
 The use of cryptography to make the blockchain a very secure datastore is an excellent and appropriate application of this technology.
 However to use it to encourage the unnecessary consuming of large processing power is a misapplication.
+Even if that power were to come from greeen sources we would still be diverting it from more worthy causes like powering large data centers.  
 
 In software engineering, mistakes are nearly always made in the first implementations.
 We can now see that second and third generation cryptocurrency platforms are addressing these shortcomings.
@@ -95,8 +96,8 @@ Correspondingly, the ACM, who award the Turing prize, computer science's Nobel p
 in their code of ethics booklet [6] state we should avoid harming the environment and 
 "when that harm is unintended, those responsible are obliged to undo or mitigate the harm as much as possible".
 It is our duty as computer professionals to correct what we have done wrong.
-But since Proof Of Work is already widely used by many cryptocurrency platforms I think some regulation is needed.
-There is a significant development cost to move to a better solution and this will not be done without encouragement.      
+But since Proof Of Work is already widely used by many cryptocurrency platforms I think regulation is required.
+There is a significant development cost in moving away from the old approach and this will not be done without encouragement.      
 
 There is much hype around Bitcoin, many have invested before understanding these technical flaws and there is a lot of speculation in the market.
 But it is technically feasible for any cryptocurrency to migrate from a Proof of Work to a Proof of Stake model which will substantially reduce the environmental cost.   
@@ -104,7 +105,7 @@ But it is technically feasible for any cryptocurrency to migrate from a Proof of
 And what we do know is that Proof of Work is causing unnecessary pollution to our environment. We wouldn't allow this in any other industry. So WHY should we tolerate it in the IT industry?
 
 Eliminating this unecessary environmental cost would be a great first step forward in the world's battle with climate change.
-I think the time is now right for the US and EU regulatory bodies, and other regulatory bodies around the world to ban Proof of Work from use in all existing or future cryptocurrency platforms.
+I think the time is now right for the US and EU regulatory bodies, and other regulatory bodies around the world to work together to ban Proof of Work from use in all existing or future cryptocurrency platforms.
 
 [1] Lex Fridman. "Lex Fridman Podcast and other videos."\
 https://www.youtube.com/user/lexfridman
