@@ -108,10 +108,10 @@ https://bitcoin.org/bitcoin.pdf
 [4] Cynthia Dwork and Noni Naor (1993). “Pricing via Processing, Or, Combating Junk Mail, Advances in Cryptology”.\
 https://web.cs.dal.ca/~abrodsky/7301/readings/DwNa93.pdf
 
-[5] IEEE "IEEE Policies, Section 7 - Professional Activities"
+[5] IEEE "IEEE Policies, Section 7 - Professional Activities"\
 https://www.ieee.org/about/corporate/governance/p7-8.html
 
-[6] ACM Association for Computing Machinery. "ACM Code of Ethics and Professional Conduct"
+[6] ACM Association for Computing Machinery. "ACM Code of Ethics and Professional Conduct"\
 https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-booklet.pdf
 
 _Donal Hurley is a Software Engineer in Dublin. He currently works on a contract with the IBM Security Services team. He can be found on Twitter at_ **@donalthurley**.
