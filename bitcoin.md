@@ -52,8 +52,9 @@ Second and third generation cryptocurrency platforms are moving to the more effi
 This is where participants put down a deposit of some crypto coins down and are prepared to lose them if they are not considered trustworthy.
 In the allegory this would be like the generals staking some of their own physical gold coins as a sign of good faith.
 
-It is very obvious that Proof of Stake is a far superior approach because it doesn't incur the high energy cost of Proof of Work.
-And Proof of Work is wasting energy because the task is doing nothing useful.
+It is very obvious that Proof of Stake is a far superior approach because it achieves the same result without incurring the high energy cost of Proof of Work.
+The use of cryptography to make the blockchain a very secure datastore is an excellent and appropriate application of cryptographical technology.
+However to use it to encourage the unnecessary consuming of large processing power on a useless task is a misapplication of that technology.
 
 So why then was Proof of Work the approach proposed in the famous Bitcoin white paper [3] and the one subsequently adopted?
 
@@ -74,7 +75,7 @@ It was never intended as a solution for normal system usage as it has been appli
 Remember Bitcoin was the very first cryptocurrency. 
 In the early days the developers would have wanted to attract people to use this new technology.
 I think it makes sense that they would have considered using computing resources as the more attractive incentive rather than charging fees.
-After all, at that time the early participants would have used their own computers to earn bitcoin rewards to compensate them.
+After all, at that time the early participants would have used their own computers and would have earned bitcoin rewards as compensation.
 I don't think they would ever have anticipated the exponential growth in usage that has led to the colossal energy wastage we see today 
 where only highly expensive and specialized GPU and ASIC hardware can now compete for those rewards.  
 
