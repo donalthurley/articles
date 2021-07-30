@@ -75,7 +75,7 @@ It was never intended as a solution for normal system usage as it has been appli
 Remember Bitcoin was the very first cryptocurrency. 
 In the early days the developers would have wanted to attract people to use this new technology and fees would have been a great disincentive.
 They would also have been aware that they needed to protect the new network from bad actors.
-As a result, it is understandable that they might have opted for a solution like the one proposed for deterring spam which used computing resources.
+As a result, it is understandable that they might have opted for a solution which used computing resources like the one proposed for deterring spam emails.
 Then combining the computing resource usage with the idea of coin minting to kickstart the network the early participants could use their own computers and earn Bitcoin rewards as compensation.
 I don't think they would ever have anticipated the exponential growth in usage that has led to the colossal energy waste we see today 
 where only highly expensive and specialized GPU and ASIC hardware can now compete for those rewards.  
@@ -103,7 +103,7 @@ But it is technically feasible for any cryptocurrency to migrate from a Proof of
 And what we do know is that Proof of Work is causing unnecessary pollution to our environment. We wouldn't allow this in any other industry. So WHY should we tolerate it in the IT industry?
 
 Eliminating this unecessary environmental cost would be a great first step forward in the world's battle with climate change.
-I think the time is now right for the US and EU regulatory bodies, and other regulatory bodies around the world to ban Proof of Work from use in any existing or future cryptocurrency platforms.
+I think the time is now right for the US and EU regulatory bodies, and other regulatory bodies around the world to ban Proof of Work from use in all existing or future cryptocurrency platforms.
 
 [1] Lex Fridman. "Lex Fridman Podcast and other videos."\
 https://www.youtube.com/user/lexfridman
