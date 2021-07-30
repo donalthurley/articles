@@ -74,7 +74,7 @@ It was never intended as a solution for normal system usage as it has been appli
 Remember Bitcoin was the very first cryptocurrency. 
 In the early days the developers would have wanted to attract people to use this new technology.
 I think it makes sense that they would have considered using computing resources as a better incentive rather than charging fees.
-But I don't think they would ever have anticipated the exponential growth in usage that has led to the energy wastage in today's Bitcoin network.
+But I don't think they would ever have anticipated the exponential growth in usage that has led to the significant energy wastage we see today.
 
 In software engineering, mistakes are nearly always made in the first implementations.
 The second and third generation cryptocurrency platforms are addressing many of these mistakes.
