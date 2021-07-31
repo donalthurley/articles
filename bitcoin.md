@@ -28,7 +28,7 @@ And thirdly the goal of these currencies is to remove the need for intermediarie
 This is achieved by large scale distribution of the blockchain data store with every participant who uses the currency having their own copy.
 
 This large scale distribution or decentralization concept is the core driving force behind cryptocurrencies and the DeFi platforms that are emerging in this space.
-However decentralization is challenging and more expensive to implement than centralization.
+However, decentralization is challenging and more expensive to implement than centralization.
 When participants exchange currency with each other how can trust be established without a central authority?
 How can each participant ensure his own copy of the data is in sync with everyone else's?
 
@@ -88,7 +88,7 @@ such as the scalabiltiy issues, and how _miner_ node pooling is leading to centr
 The original developers of Bitcoin came from a cryptographic background.
 The use of cryptography to make the blockchain a very secure datastore is an excellent and appropriate use of this technology.
 However to use it to encourage the unnecessary consuming of large processing power, I believe, is a misapplication of cryptography.
-Even if that power were to come from greeen sources we are still diverting it from more worthy causes like powering large data centers.
+Even if that power were to come from green sources we are still diverting it from more worthy causes like powering large data centers.
 
 In software engineering, mistakes are nearly always made in the first implementations.
 We are now seeing that the second and third generation cryptocurrency platforms are addressing the original shortcomings.
