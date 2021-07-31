@@ -28,7 +28,7 @@ And thirdly the goal of these currencies is to remove the need for intermediarie
 This is achieved by large scale distribution of the blockchain data store with every participant who uses the currency having their own copy.
 
 This large scale distribution or decentralization concept is the core driving force behind cryptocurrencies and the DeFi platforms that are emerging in this space.
-Decentralization is challenging and more expensive to implement than centralization.
+However decentralization is challenging and more expensive to implement than centralization.
 When participants exchange currency with each other how can trust be established without a central authority?
 How can each participant ensure his own copy of the data is in sync with everyone else's?
 
