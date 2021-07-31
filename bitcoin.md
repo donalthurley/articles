@@ -26,7 +26,6 @@ The blockchain works by having each new block in the chain cryptographically lin
 There is widespread acceptance across the industry that blockchains are an important and highly useful technology with a myriad of uses.    
 And thirdly the goal of these currencies is to remove the need for intermediaries.
 This is achieved by large scale distribution of the blockchain data store with every participant who uses the currency having their own copy.
-And it is the Bitcoin solution to this goal which is the cause of the excessive energy consumption.
 
 This large scale distribution or decentralization concept is the core driving force behind cryptocurrencies and the DeFi platforms that are emerging in this space.
 Decentralization is challenging and more expensive to implement than centralization.
@@ -85,11 +84,10 @@ They would never have foreseen the exponential growth in usage that has led to t
 where only highly expensive and specialized GPU and ASIC hardware can now compete for those rewards.
 Likewise, in the original Bitcoin paper there is no discussion of other issues that have grown over time 
 like the scalabiltiy issues, and how the pooling of _miner_ nodes is leading to centralisation.
-These also were not foreseen.
 
 The original developers of Bitcoin came from a cryptographic background.
 The use of cryptography to make the blockchain a very secure datastore is an excellent and appropriate use of this technology.
-However to use it to encourage the unnecessary consuming of large processing power, I feel, is a misapplication of it.
+However to use it to encourage the unnecessary consuming of large processing power, I believe, is a misapplication of cryptography.
 Even if that power were to come from greeen sources we are still diverting it from more worthy causes like powering large data centers.
 
 In software engineering, mistakes are nearly always made in the first implementations.
