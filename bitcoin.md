@@ -20,8 +20,8 @@ with an alternative approach called Proof of Stake in the second and third gener
 Before explaining these two approaches let us look at the three key goals of cryptocurrencies.
 
 Firstly the main goal is to replace traditional currencies like the dollar or euro with cross-border digital currencies.
-The internet and increasing globalization is making the realization of this almost inevitable.
-Secondly they use a new data storage concept, this now famous blockchain, for ensuring that currency transactions are secure and can never be altered.
+The internet and increasing globalization is making the realization of this goal almost inevitable.
+Secondly they use a new data storage concept, the famous blockchain, for ensuring that currency transactions are secure and can never be altered.
 The blockchain works by having each new block in the chain cryptographically linked to all previous blocks, meaning no block can be altered without invalidating the whole chain.
 And thirdly the goal of these currencies is to remove the need for intermediaries.
 This is achieved by large scale distribution of the blockchain data store with every participant who uses the currency having their own copy.
@@ -41,7 +41,7 @@ In cryptocurrency terms the computer nodes would represent the generals and the 
 
 To resolve this problem the generals come up with a way to demonstrate their good faith.
 They do this by showing that they are willing to sacrifice some resource of value if they are caught cheating.
-This allows them to come to an agreement even if nearly half of the generals are trying to cheat.
+This allows them to come to an agreement even if upto half of the generals are trying to cheat.
 
 In the case of Proof of Work that resource is a work resource and in the case of Proof of Stake it is an economic resource.
 
@@ -54,14 +54,14 @@ This is where participants put down a deposit of some crypto coins and are prepa
 In the allegory this would be like the generals staking some of their own physical gold coins as a sign of good faith.
 
 Both approaches will work to deter bad actors and to maximize trust but it is very obvious 
-that Proof of Stake is the far superior approach because it achieves the same result without incurring the high energy cost.
+that Proof of Stake is the superior approach because it achieves the same result without incurring the high energy cost.
 The two resources are interchangeable, if you already have a stake you can use it to pay for an equivalent amount of work.
-There is no need to do the work. Applying Occam's razor we would always choose the Proof of Stake approach. 
+So there is no need to do the work. Applying Occam's razor we would always choose the Proof of Stake approach. 
 
-So why then was Proof of Work the approach proposed in the famous Bitcoin white paper [3] and the one subsequently adopted?
+So why then was Proof of Work the approach proposed in the famous Bitcoin white paper [3] and the one subsequently adopted by Bitcoin?
 
 To understand this we need to go back to the literature to where the idea for Proof of Work first arose.
-The original idea comes from a paper which suggested it as a solution for combating junk mail [4].
+The original idea comes from a 1993 paper which suggested it as a solution for combating junk mail [4].
 In it Dwork and Naor clearly state why they chose a computational pricing model rather than charging a fee.
 
     Usage fees may be a deterrent; however, we do not want a system
@@ -76,20 +76,20 @@ It was never intended as a solution for normal system usage as it has been appli
 
 Remember Bitcoin was the very first cryptocurrency. 
 In the early days the developers would have wanted to attract others to use this new technology and fees would have been a strong disincentive.
-They would also have been aware that they needed to protect the new network from bad actors.
+They would also have needed to protect the new network from bad actors.
 As a result, it is understandable that they might have opted for a solution which used computing resources just like the one proposed for deterring spam emails.
 Then combining the computing resource usage with the idea of coin minting to kickstart the network the early participants could use their own computers and earn Bitcoin rewards as compensation.
-I don't think they would ever have anticipated the exponential growth in usage that has led to the colossal energy waste we see today 
-where only highly expensive and specialized GPU and ASIC hardware can now compete for those rewards.  
+They would never have foreseen the exponential growth in usage that has led to the colossal energy waste we see today 
+where only highly expensive and specialized GPU and ASIC hardware can now compete for those rewards.
+And, of course, in the original Bitcoin paper there is no discussion of the high energy usage, the scalabiltiy issues, nor how the pooling of _miner_ nodes is leading to centralisation. 
 
-The original developers of Bitcoin also came from a cryptographic background.
-They may have been over eager to apply these techniques where ever they could.
-The use of cryptography to make the blockchain a very secure datastore is an excellent and appropriate application of this technology.
-However to use it to encourage the unnecessary consuming of large processing power is a misapplication.
-Even if that power were to come from greeen sources we would still be diverting it from more worthy causes like powering large data centers.  
+The original developers of Bitcoin came from a cryptographic background and they appear to have been over eager in applying these techniques.
+The use of cryptography to make the blockchain a very secure datastore is an excellent and appropriate use of this technology.
+However to use it to encourage the unnecessary consuming of large processing power, I feel, is a misapplication of this technology.
+Even if that power were to come from greeen sources we are still diverting it from more worthy causes like powering large data centers.
 
 In software engineering, mistakes are nearly always made in the first implementations.
-We can now see that second and third generation cryptocurrency platforms are addressing these shortcomings.
+We are now seeing that the second and third generation cryptocurrency platforms are addressing these shortcomings.
 
 The IEEE, the world's largest technical professional organization,
 in their code of ethics [5] state that professionals should "strive to comply with ethical design and sustainable development practices".
