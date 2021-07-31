@@ -82,8 +82,8 @@ As a result, it is understandable that they might have opted for a solution whic
 Then combining the computing resource usage with the idea of coin minting to kickstart the network the early participants could use their own computers and earn Bitcoin rewards as compensation.
 They would never have foreseen the exponential growth in usage that has led to the colossal energy waste we see today 
 where only highly expensive and specialized GPU and ASIC hardware can now compete for those rewards.
-Likewise, in the original Bitcoin paper there is no discussion of other issues that have grown over time 
-like the scalabiltiy issues, and how the pooling of _miner_ nodes is leading to centralisation.
+Likewise, in the original Bitcoin paper there is no discussion of other issues that have become evident over time 
+such as the scalabiltiy issues, and how _miner_ node pooling is leading to centralisation.
 
 The original developers of Bitcoin came from a cryptographic background.
 The use of cryptography to make the blockchain a very secure datastore is an excellent and appropriate use of this technology.
@@ -91,7 +91,7 @@ However to use it to encourage the unnecessary consuming of large processing pow
 Even if that power were to come from greeen sources we are still diverting it from more worthy causes like powering large data centers.
 
 In software engineering, mistakes are nearly always made in the first implementations.
-We are now seeing that the second and third generation cryptocurrency platforms are addressing these shortcomings.
+We are now seeing that the second and third generation cryptocurrency platforms are addressing the original shortcomings.
 
 The IEEE, the world's largest technical professional organization,
 in their code of ethics [5] state that professionals should "strive to comply with ethical design and sustainable development practices".
