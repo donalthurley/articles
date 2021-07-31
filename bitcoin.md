@@ -43,17 +43,17 @@ In cryptocurrency terms the computer nodes would represent the generals and the 
 
 To resolve this problem the generals come up with a way to demonstrate their good faith.
 They do this by showing that they are willing to sacrifice some resource of value if they are caught cheating.
-This allows them to come to an agreement even if upto half of the generals are trying to cheat.
+This allows them to come to an agreement even if up to half of the generals are trying to cheat.
 
 In the case of Proof of Work that resource is a work resource and in the case of Proof of Stake it is an economic resource.
 
 In Bitcoin the Proof of Work task is a cryptographic puzzle that is given to special _miner_ nodes that can take several minutes to solve.
 In terms of the Byzantine Generals allegory it would be equivalent to each general asking his infantry to perform some time consuming task,
-a meaningless task like the ones given to Sysyphus, but one that can then be checked by the other generals and will prove his good intentions.
+a meaningless task, but one that can then be checked by the other generals and will prove his good intentions.
 
 Second and third generation cryptocurrency platforms are moving to the more efficient Proof of Stake approach.
-This is where participants put down a deposit of some crypto coins and are prepared to lose them if they are not considered trustworthy.
-In the allegory this would be like the generals staking some of their own physical gold coins as a sign of good faith.
+This is where participants put down a deposit of some crypto coins and are prepared to lose them if they are found to be untrustworthy.
+In the allegory this would be the equivalent of the generals staking some of their own physical gold coins as a sign of good faith.
 
 Both approaches will work to deter bad actors and to maximize trust but it is very obvious 
 that Proof of Stake is the superior approach because it achieves the same result without incurring the high energy cost.
@@ -83,11 +83,13 @@ As a result, it is understandable that they might have opted for a solution whic
 Then combining the computing resource usage with the idea of coin minting to kickstart the network the early participants could use their own computers and earn Bitcoin rewards as compensation.
 They would never have foreseen the exponential growth in usage that has led to the colossal energy waste we see today 
 where only highly expensive and specialized GPU and ASIC hardware can now compete for those rewards.
-And, of course, in the original Bitcoin paper there is no discussion of the high energy usage, the scalabiltiy issues, nor how the pooling of _miner_ nodes is leading to centralisation. 
+Likewise, in the original Bitcoin paper there is no discussion of other issues that have grown over time 
+like the scalabiltiy issues, and how the pooling of _miner_ nodes is leading to centralisation.
+These also were not foreseen.
 
-The original developers of Bitcoin came from a cryptographic background and they appear to have been over eager in applying these techniques.
+The original developers of Bitcoin came from a cryptographic background.
 The use of cryptography to make the blockchain a very secure datastore is an excellent and appropriate use of this technology.
-However to use it to encourage the unnecessary consuming of large processing power, I feel, is a misapplication of this technology.
+However to use it to encourage the unnecessary consuming of large processing power, I feel, is a misapplication of it.
 Even if that power were to come from greeen sources we are still diverting it from more worthy causes like powering large data centers.
 
 In software engineering, mistakes are nearly always made in the first implementations.
@@ -107,7 +109,7 @@ But it is technically feasible for any cryptocurrency to migrate from a Proof of
 
 And what we do know is that Proof of Work is causing unnecessary pollution to our environment. We wouldn't allow this in any other industry. So WHY should we tolerate it in the IT industry?
 
-Eliminating this unecessary environmental cost would be a great first step forward in the world's battle with climate change.
+Eliminating this unecessary environmental cost would be a great step forward in the world's battle with climate change.
 I think the time is now right for the US and EU regulatory bodies, and other regulatory bodies around the world to work together to ban Proof of Work from use in all existing or future cryptocurrency platforms.
 
 [1] Lex Fridman. "Lex Fridman Podcast and other videos."\
