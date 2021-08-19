@@ -1,4 +1,4 @@
-## Bitcoin's Proof of Work is Causing Significant and Unnecessary Environmental Damage and Should Be Banned
+## Bitcoin's Proof of Work is Causing Significant and Unnecessary Environmental Damage
 _written by_ **Donal Hurley** 
 
 _'Look at mother nature on the run'\
