@@ -14,7 +14,7 @@ Decentralization is the main driving force behind cryptocurrencies.
 You need to keep distributed copies of data in sync rather than a small number of copies as are done in centralized systems.
 
 The environmental damage in Bitcoin is being caused by an algorithm called Proof of Work which is used to solve the distribution problem.
-Blockchain users prove their good faith by solving a cryptographic puzzle that essentially has no productive value.
+Blockchain users prove their good faith by solving a compute intensive cryptographic puzzle that essentially has no productive value.
 Proof of Work acts as evidence that the user is valid, new transaction data can be trusted and all users can update their copies.
 This same algorithm is also used as the mechanism for minting coins, i.e., the winner of the puzzle gets a coin. 
 
