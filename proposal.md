@@ -22,6 +22,7 @@ And the Proof of Work acts as evidence that the user is valid, that the new tran
 
 However the energy waste in Proof of Work is a known problem and it is being addressed in the second and third generation cryptocurrency platforms with a better algorithm called Proof of Stake which has considerably less environmental cost.
 Instead of using computing power as proof of good faith the users stake an amount of coins that they are prepared to lose if it is found that they can't be trusted.
+This achieves the same effect by switching from computing resources to an economic resource.
 
 Unfortunately because of the critical mass and network effect that the Bitcoin network has already achieved in the market and because it is technically non trivial to change this core algorithm
 it is highly unlikely that the Bitcoin developers and Big IT and finance companies who have invested in Bitcoin would back this change without regulation.
