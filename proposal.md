@@ -6,7 +6,7 @@ The climate impact is colossal and this is not getting the deserved attention fr
 Nor are the flaws in the design of Bitcoin that are causing the large environmental impact generally understood. 
 
 I am a software consultant, 35 years in IT, contracted with IBM security services, don't own nor work with cryptocurrencies.
-Have a tehcnical appreciation of the technology and a great concern for the damage being caused. 
+Have a technical appreciation of the technology and a great concern for the damage being caused. 
 
 ### Article Outline
 
@@ -15,7 +15,7 @@ You need to keep distributed copies of data in sync rather than a small number o
 
 The environmental damage in Bitcoin is being caused by an algorithm called Proof of Work which is used to solve the distribution problem.
 Blockchain users prove their good faith by solving a compute intensive cryptographic puzzle that essentially has no productive value.
-Proof of Work acts as evidence that the user is valid, new transaction data can be trusted and all users can update their copies.
+Proof of Work acts as evidence that the user is valid, that new transaction data can be trusted and all users can update their copies.
 This same algorithm is also used as the mechanism for minting coins, i.e., the winner of the puzzle gets a coin. 
 
 The energy waste in Proof of Work is a known problem and it is being addressed in the second and third generation cryptocurrency platforms.
