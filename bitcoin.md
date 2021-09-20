@@ -23,7 +23,7 @@ Firstly the main goal is to replace traditional currencies like the dollar or eu
 The internet and increasing globalization is making the realization of this goal almost inevitable.
 Secondly they use a new data storage concept, the famous blockchain, for ensuring that currency transactions are secure and can never be altered.
 The blockchain works by having each new block in the chain cryptographically linked to all previous blocks, meaning no block can be altered without invalidating the whole chain.
-There is widespread acceptance across the industry that blockchains are an important and highly useful technology with a myriad of uses.    
+There is widespread acceptance across the industry that blockchains are an important and useful technology with a myriad of uses.    
 And thirdly the goal of these currencies is to remove the need for intermediaries.
 This is achieved by large scale distribution of the blockchain data store with every participant who uses the currency having their own copy.
 
@@ -83,7 +83,7 @@ Then combining the computing resource usage with the idea of coin minting to kic
 They would never have foreseen the exponential growth in usage that has led to the colossal energy waste we see today 
 where only highly expensive and specialized GPU and ASIC hardware can now compete for those rewards.
 Likewise, in the original Bitcoin paper there is no discussion of other issues that have become evident over time 
-such as the scalabiltiy issues, and how _miner_ node pooling is leading to centralisation.
+such as the scalability issues, and how _miner_ node pooling is leading to centralisation.
 
 The original developers of Bitcoin came from a cryptographic background.
 The use of cryptography to make the blockchain a very secure datastore is an excellent and appropriate use of this technology.
