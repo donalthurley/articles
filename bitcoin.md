@@ -130,4 +130,4 @@ https://www.ieee.org/about/corporate/governance/p7-8.html
 [6] ACM Association for Computing Machinery. "ACM Code of Ethics and Professional Conduct"\
 https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-booklet.pdf
 
-_Donal Hurley is a Software Engineer working in Dublin. He can be found on Twitter at_ **@donalthurley**.
+_Donal Hurley is a Software Engineer working in Dublin. He can be found on Twitter at_ [**@donalthurley**](https://twitter.com/donalthurley).
