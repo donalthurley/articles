@@ -19,16 +19,18 @@ with an alternative approach called Proof of Stake in the second and third gener
 
 Before explaining these two approaches let us look at the three key goals of cryptocurrencies.
 
-Firstly the main goal is to replace traditional currencies like the dollar or euro with cross-border digital currencies.
-The internet and increasing globalization is making the realization of this goal almost inevitable.
-Secondly they use a new data storage concept, the famous blockchain, for ensuring that currency transactions are secure and can never be altered.
+The first key goal is to replace traditional currencies like the dollar or euro with cross-border digital currencies.
+The internet and increasing globalization is making this technically possible but historically currencies that are not backed by nation states have not survived too long.
+Secondly they use a new data storage concept, the now famous blockchain, for ensuring that currency transactions are secure and can never be altered.
 The blockchain works by having each new block in the chain cryptographically linked to all previous blocks, meaning no block can be altered without invalidating the whole chain.
-There is widespread acceptance across the industry that blockchains are an important and useful technology with a myriad of uses.    
+There is acceptance across the industry that blockchains are a useful technology that can be applied to different domains from healthcare to supply chains
+with the very specific use of storing a verifiable log of event records.
+However, the technology is currently a victim of enormous hype often been marketed as a solution or replacement for almost every technical problem imaginable.     
 And thirdly the goal of these currencies is to remove the need for intermediaries.
 This is achieved by large scale distribution of the blockchain data store with every participant who uses the currency having their own copy.
 
 This large scale distribution or decentralization concept is the core driving force behind cryptocurrencies and the DeFi platforms that are emerging in this space.
-However, decentralization is challenging and more expensive to implement than centralization.
+However, decentralization is challenging and extremely more expensive to implement than centralization.
 When participants exchange currency with each other how can trust be established without a central authority?
 How can each participant ensure his own copy of the data is in sync with everyone else's?
 
@@ -128,4 +130,4 @@ https://www.ieee.org/about/corporate/governance/p7-8.html
 [6] ACM Association for Computing Machinery. "ACM Code of Ethics and Professional Conduct"\
 https://www.acm.org/binaries/content/assets/about/acm-code-of-ethics-booklet.pdf
 
-_Donal Hurley is a Software Engineer in Dublin. He currently works on a contract with the IBM Security Services team. He can be found on Twitter at_ **@donalthurley**.
+_Donal Hurley is a Software Engineer working in Dublin. He can be found on Twitter at_ **@donalthurley**.
